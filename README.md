@@ -41,3 +41,8 @@ git log
 ```
 Opmerking: Of zie commits op github
 
+# repo binnenhalen
+```bash
+git clone git@github.com:CrianBox/HelloMarkdown.git
+```
+
