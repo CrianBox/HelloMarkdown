@@ -46,7 +46,10 @@ Opmerking: Of zie commits op github
 git clone git@github.com:CrianBox/HelloMarkdown.git
 ```
 
-Updates binnenhalen
+# Updates binnenhalen
+
+Laatste updates van github
+
 ```bash
 git pull origin master
 ```
