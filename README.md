@@ -50,4 +50,4 @@ Updates binnenhalen
 ```bash
 git pull origin master
 ```
-
+![grappige afbeelding](./img/allthethings.jpg)
